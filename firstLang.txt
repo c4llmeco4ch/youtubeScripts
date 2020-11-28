@@ -1,0 +1,5 @@
+Hi everyone. My name is Connor Bottum and I wanted to give a rundown of what, in my opinion, are the best languages you can choose as a complete coding beginner.
+
+First, I want to introduce myself. Like I said, my name is Connor Bottum and I currently work as a QA Engineer at Defiant. Before my current position, I worked as a coding tutor for TheCoderSchool. You can find me on Twitter at c4llmeco4ch or you can ping me on Discord with the username shown here
+
+So, I said this was a discussion on picking your FIRST language. This assumes you have little to no experience with programming. If we're being completely honest, your first language DOES NOT MATTER.
